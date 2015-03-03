@@ -1,5 +1,5 @@
 # HomeSharp
-HomeSharp (Home#) aims to create a platform for bringing a variety of different home automation control systems into one. Making it possible for a user to handle, and control all
+HomeSharp aims to create a platform for bringing a variety of different home automation control systems into one. Making it possible for a user to handle, and control all
 the smart devices from one GUI, using a smart API translating all the different requests to the specific standard used by the manufacturer (Eg. Netatmo, Telldus, Philips Hue).
 
 ## Getting started
